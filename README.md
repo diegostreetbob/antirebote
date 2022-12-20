@@ -1,4 +1,6 @@
-## The simplest button debounce utility for Arduino
+## Ejemplo de uso
+
+**He añadido un Excel con el algoritmo desglosado para ver como funciona, aunque es fácil de entender así queda más claro para futuras referencias**.
 
 This library is probably the simplest button debounce ulitity for Arduino. The code is based on [Jack Ganssle](http://www.ganssle.com/bio.htm)'s debounce function that he described in his part 2 of ["A Guide to Debouncing"](http://www.ganssle.com/debouncing.htm) article.
 
